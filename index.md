@@ -1,10 +1,5 @@
 ---
-title: Welcome
+title: Home
 layout: home
 ---
-
-## A simple website
-
-Hello and welcome to this simple website.
-
 
