@@ -3,4 +3,8 @@ title: Welcome
 layout: default
 ---
 
-Hello, Minima!
+# A simple website
+
+Hello and welcome to this simple website.
+
+
