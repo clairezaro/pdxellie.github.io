@@ -5,7 +5,7 @@ title: Drawing with Python
 
 In this program, I use python to draw a spiral on the screen.
 
-```
+```python
 import turtle
 import random
 
